@@ -1,0 +1,6 @@
+com\category\CategoryApplication.class
+com\category\service\CategoryServiceImpl.class
+com\category\controller\CategoryController.class
+com\category\repository\CategoryRepository.class
+com\category\service\CategoryService.class
+com\category\model\Category.class
